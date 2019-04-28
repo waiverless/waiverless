@@ -1,0 +1,122 @@
+.btn-light{
+	background-color: #fff !important;
+	border: solid 1px #ced4da !important;
+}
+.modal_title {
+  font-weight: italic;
+  text-transform: uppercase;
+  color: #18bc9c;
+  font-size: 18px;
+}
+thead{
+	background-color:#18bc9c;
+	color:#fff;
+}
+.col_action{
+	width:15px;
+}
+.fa-edit,.fa-trash,.fa-plus{
+	cursor:pointer;
+}
+.card{
+	margin-bottom:5px
+}
+.operation_icone{
+	margin-left:10px;
+	cursor:pointer;
+}
+.operation_zone{
+	margin-top: -10px;
+}
+.btn_ajout{
+	margin-top: -5px;
+	padding-left:10px;
+	padding-right:10px;
+	cursor:pointer;
+	background-color:#007bff;
+	color:#fff;
+	
+}
+.activite_operation_zone{
+	margin-top: 10px;
+}
+.btn_ajout_activite{
+	margin-top: -25px;
+	padding-left:10px;
+	padding-right:10px;
+	cursor:pointer;
+	background-color:#007bff;
+	color:#fff;
+	
+}
+.custom-file-input ~ .custom-file-label::after {
+    content: "Parcourir";
+}
+label {
+  font-weight: bold;
+}
+.btn_menu{
+	margin-left: 10px;
+	color:#fff;
+}
+
+nav > a
+{
+	color:#fff;
+}
+nav > a:hover,.dropdown > a:hover{
+	background-color:#15a589;
+	color:#fff;
+}
+
+.page-content {
+    margin-top: 40px;
+    min-height: 600px;
+    padding-bottom: 60px;
+}
+.page-content2 {
+    margin-top: 5px;
+    min-height: 600px;
+    padding-bottom: 60px;
+}
+.page-head-line > a,.page-head-line > a:hover {
+	color: #18bc9c;
+}
+.page-head-line {
+    font-weight: 900;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+	color: #18bc9c;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+/*==============================================
+    DASHBOARD  STYLES    
+ =============================================*/
+
+/* DASHBOARD ICONS */
+
+.bk-clr {
+    background-color: #18bc9c;
+}
+.dashboard-div-icon {
+    height: 75px;
+    width: 75px;
+    border: 2px solid #fff;
+    padding: 20px;
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.dashboard-div-wrapper {
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
